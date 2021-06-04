@@ -7,4 +7,5 @@ Further optimizations are possible and are documented in `Encode Compressed Mess
 
 # Links
 https://www.reddit.com/r/LabVIEW/comments/nplfq0/labview_reddit_coding_challenge_june_2021/
+
 https://gitlab.com/qalldredge/labview-reddit-coding-challenge-june-2021
