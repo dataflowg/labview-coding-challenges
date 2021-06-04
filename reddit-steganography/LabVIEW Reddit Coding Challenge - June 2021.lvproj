@@ -36,8 +36,6 @@
 			<Item Name="Encode Byte.vi" Type="VI" URL="../SubVIs/Encode Byte.vi"/>
 			<Item Name="Encode Compressed Message.vi" Type="VI" URL="../SubVIs/Encode Compressed Message.vi"/>
 			<Item Name="Encode I32.vi" Type="VI" URL="../SubVIs/Encode I32.vi"/>
-			<Item Name="Nyx the Owl.bmp" Type="Document" URL="../SubVIs/Nyx the Owl.bmp"/>
-			<Item Name="Nyx the Owl_altered.bmp" Type="Document" URL="../SubVIs/Nyx the Owl_altered.bmp"/>
 		</Item>
 		<Item Name="Decode Message.vi" Type="VI" URL="../Decode Message.vi"/>
 		<Item Name="Encode Message.vi" Type="VI" URL="../Encode Message.vi"/>
