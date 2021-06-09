@@ -36,6 +36,8 @@
 			<Item Name="Encode Byte.vi" Type="VI" URL="../SubVIs/Encode Byte.vi"/>
 			<Item Name="Encode Compressed Message.vi" Type="VI" URL="../SubVIs/Encode Compressed Message.vi"/>
 			<Item Name="Encode I32.vi" Type="VI" URL="../SubVIs/Encode I32.vi"/>
+			<Item Name="Compression Type.ctl" Type="VI" URL="../SubVIs/Compression Type.ctl"/>
+			<Item Name="Header Size.vi" Type="VI" URL="../SubVIs/Header Size.vi"/>
 		</Item>
 		<Item Name="Decode Message.vi" Type="VI" URL="../Decode Message.vi"/>
 		<Item Name="Encode Message.vi" Type="VI" URL="../Encode Message.vi"/>
@@ -90,6 +92,8 @@
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Create Directory Recursive.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Create Directory Recursive.vi"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
